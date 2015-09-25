@@ -126,6 +126,7 @@ local commands = setmetatable({
       log("  /wf del <keyword> - removes a keyword from the list.")
       log("  /wf list          - lists all keywords currently active.")
       log("  /wf on/off        - temporarily disables or re-enables World Filter.")
+      log("Note: all keywords are treated as regular expressions!")
     end
   end
 })

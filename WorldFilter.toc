@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: World Filter
+## Notes: Filters Word channel by specific key words
+## Author: Two
+## Version: 1.12.1.2
+## SavedVariablesPerCharacter: WorldFilter_KeyWords, WorldFilter_Enabled
+WorldFilter.xml
